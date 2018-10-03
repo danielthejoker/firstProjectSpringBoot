@@ -8,6 +8,6 @@ public class FirtProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirtProjectApplication.class, args);
-		System.out.println("meu primeiro projet");
+		System.out.println("meu primeiro projeto...");
 	}
 }
